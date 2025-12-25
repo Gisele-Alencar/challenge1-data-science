@@ -1,5 +1,15 @@
 #  Challenge Alura - Análise de Lojas
 
+<h1 align="center">📊 Challenge Alura - Análise de Lojas</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-blue" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-Statistics-blue" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab" alt="Google Colab">
+</p>
+
 ##  Objetivo do Projeto
 Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos uma análise detalhada de 4 lojas para determinar qual delas deve ser vendida, baseando-nos em métricas de desempenho financeiro e operacional.
 
@@ -31,7 +41,7 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 - Menos vendido geral: **Cubo mágico 8x8** (R$ 3.922,00)  
 
 ## Recomendação Final
-**Loja 4 deve ser vendida **
+Loja 4 deve ser vendida
 
 ### Justificativa:
 • Menor faturamento entre todas as lojas (R$ 1.458.253)  
