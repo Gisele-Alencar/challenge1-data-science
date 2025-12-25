@@ -1,6 +1,6 @@
 #  Challenge Alura - Análise de Lojas
 
-<p align="center">
+> <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" />
@@ -11,9 +11,6 @@
 Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos uma análise detalhada de 4 lojas para determinar qual delas deve ser vendida, baseando-nos em métricas de desempenho financeiro e operacional.
 
 ## Dados Analisados
-> 4 Lojas com dados de vendas completos  
-> Métricas incluem: faturamento, avaliações, frete médio e produtos mais vendidos  
-
 
 • Faturamento Total por Loja
 - Loja 1: R$ 1.616.347  
