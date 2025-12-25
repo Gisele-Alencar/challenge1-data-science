@@ -16,19 +16,19 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 - Loja 1: R$ 1.616.347  
 - Loja 2: R$ 1.567.773  
 - Loja 3: R$ 1.542.048  
-- Loja 4: R$ 1.458.253  **(MENOR FATURAMENTO)**
+- Loja 4: R$ 1.458.253  *(MENOR FATURAMENTO)*
 
 • Média de Avaliações
 - Loja 1: 3.98  
 - Loja 2: 4.04  
-- Loja 3: 4.05  **(MELHOR AVALIAÇÃO)**  
+- Loja 3: 4.05  *(MELHOR AVALIAÇÃO)*
 - Loja 4: 4.00  
 
 • Frete Médio
-- Loja 1: R$ 34.69  **(MAIS CARO)**  
+- Loja 1: R$ 34.69  *(MAIS CARO)*
 - Loja 2: R$ 33.62  
 - Loja 3: R$ 33.07  
-- Loja 4: R$ 31.28  **(MAIS BARATO)**  
+- Loja 4: R$ 31.28  *(MAIS BARATO)*  
 
 • Produtos
 - Mais vendido geral: **TV Led UHD 4K** (R$ 607.367,22)  
