@@ -35,7 +35,7 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 
 • Produtos
 - Mais vendido geral: **TV Led UHD 4K** (R$ 607.367,22)  
-- Menos vendido geral: **Cubo mágico 8x8** (R$ 3.922,00)  
+- Menos vendido geral: **Cubo mágico** (R$ 3.922,00)  
 
 ## Recomendação Final
 
