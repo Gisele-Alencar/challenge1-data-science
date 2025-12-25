@@ -4,8 +4,8 @@
 Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos uma análise detalhada de 4 lojas para determinar qual delas deve ser vendida, baseando-nos em métricas de desempenho financeiro e operacional.
 
 ## Dados Analisados
-- 4 Lojas com dados de vendas completos  
-- Métricas incluem: faturamento, avaliações, frete médio e produtos mais vendidos  
+4 Lojas com dados de vendas completos  
+Métricas incluem: faturamento, avaliações, frete médio e produtos mais vendidos  
 
 
 • 1. Faturamento Total por Loja
@@ -14,19 +14,19 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 - Loja 3: R$ 1.542.048  
 - Loja 4: R$ 1.458.253  **(MENOR FATURAMENTO)**
 
-#### 2. Média de Avaliações
+• 2. Média de Avaliações
 - Loja 1: 3.98  
 - Loja 2: 4.04  
 - Loja 3: 4.05  **(MELHOR AVALIAÇÃO)**  
 - Loja 4: 4.00  
 
-#### 3. Frete Médio
+• 3. Frete Médio
 - Loja 1: R$ 34.69  **(MAIS CARO)**  
 - Loja 2: R$ 33.62  
 - Loja 3: R$ 33.07  
 - Loja 4: R$ 31.28  **(MAIS BARATO)**  
 
-#### 4. Produtos
+• 4. Produtos
 - Mais vendido geral: **TV Led UHD 4K** (R$ 607.367,22)  
 - Menos vendido geral: **Cubo mágico 8x8** (R$ 3.922,00)  
 
