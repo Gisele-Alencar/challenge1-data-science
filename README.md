@@ -50,7 +50,7 @@ Loja 4 deve ser vendida
 Nesta seção são apresentados **3 gráficos** utilizados para apoiar a análise e a tomada de decisão:
 
  Gráfico do **faturamento total por loja**
-  ![Diagrama](download 3.png)
+  ![Diagrama](<download 3.png>)
  Gráfico da **média de avaliações por loja**
  ![Frete Médio por Loja](<download 1.png>)
  Gráfico do **frete médio por loja**
