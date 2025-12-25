@@ -1,25 +1,78 @@
-# challenge1-data-science
+#  Challenge Alura - Análise de Lojas
 
-Repositório do desafio 1 - Data Science.
+##  Objetivo do Projeto
+Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos uma análise detalhada de 4 lojas para determinar qual delas deve ser vendida, baseando-nos em métricas de desempenho financeiro e operacional.
 
-## Imagem de exemplo
+## Dados Analisados
+- 4 Lojas com dados de vendas completos  
+- Métricas incluem: faturamento, avaliações, frete médio e produtos mais vendidos  
 
-Abaixo está a imagem incluída no repositório:
+### Principais Descobertas
 
-![Diagrama](download.png)
+#### 1. Faturamento Total por Loja
+- Loja 1: R$ 1.616.347  
+- Loja 2: R$ 1.567.773  
+- Loja 3: R$ 1.542.048  
+- Loja 4: R$ 1.458.253  **(MENOR FATURAMENTO)**
 
-Legenda: Exemplo de imagem 'download.png' adicionada ao README.
+#### 2. Média de Avaliações
+- Loja 1: 3.98  
+- Loja 2: 4.04  
+- Loja 3: 4.05  **(MELHOR AVALIAÇÃO)**  
+- Loja 4: 4.00  
 
-## Visualização do MWU
+#### 3. Frete Médio
+- Loja 1: R$ 34.69  **(MAIS CARO)**  
+- Loja 2: R$ 33.62  
+- Loja 3: R$ 33.07  
+- Loja 4: R$ 31.28  **(MAIS BARATO)**  
 
-Abaixo estão as visualizações geradas (Imagens 1 e 2):
+#### 4. Produtos
+- Mais vendido geral: **TV Led UHD 4K** (R$ 607.367,22)  
+- Menos vendido geral: **Cubo mágico 8x8** (R$ 3.922,00)  
 
-![Frete Médio por Loja](<download 1.png>)
+## Recomendação Final
+**Loja 4 deve ser vendida **
 
-Legenda: Gráfico de dispersão mostrando o frete médio por loja (Imagem 1).
+### Justificativa:
+• Menor faturamento entre todas as lojas (R$ 1.458.253)  
+• Diferença significativa de ~R$ 158.000 para a Loja 1  
+• Apesar do frete mais baixo, não compensa o baixo faturamento  
+• Avaliações medianas (4.00) não justificam manter a operação  
 
-![Média de Avaliação das Lojas](<download 2.png>)
+##  Visualizações
+Nesta seção são apresentados **3 gráficos** utilizados para apoiar a análise e a tomada de decisão:
 
-Legenda: Gráfico de barras mostrando a média de avaliação por loja (Imagem 2).
+ Gráfico do **faturamento total por loja**
+  ![Diagrama](download.png)
+ Gráfico da **média de avaliações por loja**
+ ![Frete Médio por Loja](<download 1.png>)
+ Gráfico do **frete médio por loja**
+ ![Média de Avaliação das Lojas](<download 2.png>)
 
-<!-- Arquivo atualizado automaticamente pelo assistente GitHub Copilot -->
+## 🔗 Notebook no Google Colab
+O código completo da análise, incluindo tratamento de dados, cálculos e visualizações, está disponível no Google Colab:
+
+**https://colab.research.google.com/drive/1LGyQnE7AEDGZFcAY1vNW8Zqf9jNMtm0W?usp=sharing**
+
+##  Tecnologias Utilizadas
+- Python  
+- Pandas – Manipulação de dados  
+- Matplotlib – Visualizações  
+- Seaborn – Gráficos estatísticos  
+- Google Colab – Ambiente de desenvolvimento  
+
+## 📁 Estrutura do Projeto
+```text
+challenge-alura/
+│
+├── notebook/
+│   └── Untitled0.ipynb          # Análise completa
+│
+├── data/
+│   ├── loja_1.csv
+│   ├── loja_2.csv
+│   ├── loja_3.csv
+│   └── loja_4.csv
+│
+└── README.md
