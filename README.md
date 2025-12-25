@@ -1,6 +1,5 @@
 #  Challenge Alura - Análise de Lojas
 
-<h1 align="center">📊 Challenge Alura - Análise de Lojas</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3-blue?logo=python" alt="Python">
