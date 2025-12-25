@@ -14,11 +14,11 @@ Legenda: Exemplo de imagem 'download.png' adicionada ao README.
 
 Abaixo estão as visualizações geradas (Imagens 1 e 2):
 
-![Frete Médio por Loja](Assets/download%20(1).png)
+![Frete Médio por Loja](Assets/download-1.png)
 
 Legenda: Gráfico de dispersão mostrando o frete médio por loja (Imagem 1).
 
-![Média de Avaliação das Lojas](Assets/download%20(2).png)
+![Média de Avaliação das Lojas](Assets/download-2.png)
 
 Legenda: Gráfico de barras mostrando a média de avaliação por loja (Imagem 2).
 
