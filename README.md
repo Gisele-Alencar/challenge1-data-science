@@ -63,14 +63,15 @@ O código completo da análise, incluindo tratamento de dados, cálculos e visua
 - Pandas – Manipulação de dados  
 - Matplotlib – Visualizações  
 - Seaborn – Gráficos estatísticos  
-- Google Colab – Ambiente de desenvolvimento  
-
+- Google Colab – Ambiente de desenvolvimento
+   
 ## 📁 Estrutura do Projeto
+
 ```text
 challenge-alura/
 │
 ├── notebook/
-│   └── Untitled0.ipynb          # Análise completa
+│   └── Untitled0.ipynb          
 │
 ├── data/
 │   ├── loja_1.csv
