@@ -49,11 +49,11 @@ Loja 4 deve ser vendida
 
 Nesta seção são apresentados **3 gráficos** utilizados para apoiar a análise e a tomada de decisão:
 
- Gráfico do **faturamento total por loja**
+ Gráfico **1**
   ![Diagrama](<download 3.png>)
- Gráfico da **média de avaliações por loja**
+ Gráfico **2**
  ![Frete Médio por Loja](<download 1.png>)
- Gráfico do **frete médio por loja**
+ Gráfico **3**
  ![Média de Avaliação das Lojas](<download 2.png>)
 
 ## 🔗 Notebook no Google Colab
@@ -72,7 +72,7 @@ O código completo da análise, incluindo tratamento de dados, cálculos e visua
    
 ## 📁 Estrutura do Projeto
 
-```text
+```
 challenge-alura/
 │
 ├── notebook/
@@ -85,4 +85,9 @@ challenge-alura/
 │   └── loja_4.csv
 │
 └── README.md
+```
 
+#
+<p align="center">
+  © 2025
+</p>
