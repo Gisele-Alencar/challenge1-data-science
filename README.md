@@ -1,12 +1,10 @@
 #  Challenge Alura - Análise de Lojas
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3-blue?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-blue" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-Statistics-blue" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab" alt="Google Colab">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter / Colab" />
 </p>
 
 ##  Objetivo do Projeto
