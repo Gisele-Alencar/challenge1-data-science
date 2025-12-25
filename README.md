@@ -23,3 +23,5 @@ Legenda: Gráfico de dispersão mostrando o frete médio por loja (Imagem 1).
 Legenda: Gráfico de barras mostrando a média de avaliação por loja (Imagem 2).
 
 <!-- Arquivo atualizado automaticamente pelo assistente GitHub Copilot -->
+
+
