@@ -7,9 +7,8 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 - 4 Lojas com dados de vendas completos  
 - Métricas incluem: faturamento, avaliações, frete médio e produtos mais vendidos  
 
-### Principais Descobertas
 
-#### 1. Faturamento Total por Loja
+• 1. Faturamento Total por Loja
 - Loja 1: R$ 1.616.347  
 - Loja 2: R$ 1.567.773  
 - Loja 3: R$ 1.542.048  
