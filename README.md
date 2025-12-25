@@ -37,7 +37,7 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 ## Recomendação Final
 Loja 4 deve ser vendida
 
-### Justificativa:
+## Justificativa:
 • Menor faturamento entre todas as lojas (R$ 1.458.253)  
 • Diferença significativa de ~R$ 158.000 para a Loja 1  
 • Apesar do frete mais baixo, não compensa o baixo faturamento  
