@@ -79,8 +79,4 @@ challenge-alura/
 │   └── loja_4.csv
 │
 └── README.md
-<hr>
 
-<p align="center">
-  © 2025
-</p>
