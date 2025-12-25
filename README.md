@@ -35,15 +35,18 @@ Este projeto faz parte do Challenge de Data Science da Alura, onde realizamos um
 - Menos vendido geral: **Cubo mágico 8x8** (R$ 3.922,00)  
 
 ## Recomendação Final
+
 Loja 4 deve ser vendida
 
 ## Justificativa:
+
 • Menor faturamento entre todas as lojas (R$ 1.458.253)  
 • Diferença significativa de ~R$ 158.000 para a Loja 1  
 • Apesar do frete mais baixo, não compensa o baixo faturamento  
 • Avaliações medianas (4.00) não justificam manter a operação  
 
 ##  Visualizações
+
 Nesta seção são apresentados **3 gráficos** utilizados para apoiar a análise e a tomada de decisão:
 
  Gráfico do **faturamento total por loja**
@@ -54,11 +57,13 @@ Nesta seção são apresentados **3 gráficos** utilizados para apoiar a anális
  ![Média de Avaliação das Lojas](<download 2.png>)
 
 ## 🔗 Notebook no Google Colab
+
 O código completo da análise, incluindo tratamento de dados, cálculos e visualizações, está disponível no Google Colab:
 
 **https://colab.research.google.com/drive/1LGyQnE7AEDGZFcAY1vNW8Zqf9jNMtm0W?usp=sharing**
 
 ##  Tecnologias Utilizadas
+
 - Python  
 - Pandas – Manipulação de dados  
 - Matplotlib – Visualizações  
