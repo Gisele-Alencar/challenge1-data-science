@@ -70,7 +70,6 @@ O código completo da análise, incluindo tratamento de dados, cálculos e visua
 - Python  
 - Pandas – Manipulação de dados  
 - Matplotlib – Visualizações  
-- Seaborn – Gráficos estatísticos  
 - Google Colab – Ambiente de desenvolvimento
    
 ## 📁 Estrutura do Projeto
